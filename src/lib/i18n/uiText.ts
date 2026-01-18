@@ -47,9 +47,9 @@ export const uiText: Record<Lang, { nav: Record<string, string>; hero: UiTextSha
             pill: "İşe hazırım",
             hello: "Merhaba",
             iam: "Ben",
-            subtitleBold: "React Tutkunu ⚛️ | Next.js Kaşifi 🚀",
+            subtitleBold: "Full-Stack Developer ⚡ | CRM & Süreç Sistemleri 🧩",
             subtitleItalic:
-                "Ölçeklenebilir UI geliştiriyor, temiz ve verimli kodla modern web deneyimleri üretiyorum 💻✨",
+                "UI’dan API’ye, veritabanına kadar uçtan uca web ürünleri geliştiriyorum 💻✨",
         },
         about: {
             expertise: "Yetenekler",
@@ -93,9 +93,9 @@ export const uiText: Record<Lang, { nav: Record<string, string>; hero: UiTextSha
             pill: "Available for work",
             hello: "Hello",
             iam: "I'm",
-            subtitleBold: "React Enthusiast ⚛️ | Next.js Explorer 🚀",
+            subtitleBold: "Full-Stack Builder ⚡ | CRM & Workflow Systems 🧩",
             subtitleItalic:
-                "Leading scalable UI development & shaping modern web experiences with clean, efficient code 💻✨",
+                "Shipping end-to-end web products with clean UI, reliable APIs, and measurable business impact 💻✨",
         },
         about: {
             expertise: "Expertise",
