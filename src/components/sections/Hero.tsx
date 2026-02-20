@@ -65,7 +65,7 @@ export function Hero() {
           </div>
 
           {/* hello + title */}
-          <div className="flex flex-row gap-4 items-center my-4 lg:my-0 lg:block">
+          <div className="flex flex-row flex-wrap gap-4 items-center my-4 lg:my-0 lg:block">
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold tracking-tight my-4 md:my-8 dark:text-zinc-300 text-zinc-700">
               {t.hero.hello}
               <span className="lg:hidden">,</span>
